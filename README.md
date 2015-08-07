@@ -12,4 +12,9 @@ Grundlegende Arbeitsschritte zur Anwendung von Git und GitHub
 	+ git pull
 	+ git status
 	
+4. Ohne clone
+	+ git init
+	+ Achtung: vor pull: git checkout master
+	
+	
  
